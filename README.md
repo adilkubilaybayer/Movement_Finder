@@ -10,5 +10,6 @@ Detects movements and shows their position in static squares
 It detects movements with respect to previous image then shows these movements in pre-defined static squares.
 
 -Threshold and pre-defined squares will be adjustable soon.
+-PRESS ESC to EXIT
 
 *Object finding methods are not used(ai-machine-deep etc.learning or sliding window etc.) Just pure movement.
