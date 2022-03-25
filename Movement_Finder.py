@@ -75,13 +75,5 @@ while True:
     sampleframe=0
     newframe=0
     key = cv2.waitKey(1)
-        
-##              warte=input("WART")
-##    wartensiebitte=input("ACHTUNG")        
-                  
-        
-##        cv2.imshow("intruder", prev_frame)
-##    list1.append
-    
-
-
+    if key == 27:
+        break
