@@ -1,6 +1,6 @@
 
 
-https://user-images.githubusercontent.com/101289501/160102437-4237e4ba-f787-418a-adb6-658753536526.mp4
+https://user-images.githubusercontent.com/101289501/160102437-4237e4ba-f787-418a-adb6-658753536526.gif
 
 # Movement_Finder
 Detects movements and shows their position in static squares
